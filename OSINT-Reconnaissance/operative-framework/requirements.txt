@@ -1,0 +1,6 @@
+requests
+colorama
+pythonwhois
+wafw00f
+sslyze
+beautifulsoup4
